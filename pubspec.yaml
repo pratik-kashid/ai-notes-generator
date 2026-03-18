@@ -46,7 +46,7 @@ dependencies:
   file_picker: ^8.0.3
 
   # AdMob
-  google_mobile_ads: ^4.0.0
+  #google_mobile_ads: ^4.0.0
 
   # In-app purchase (premium)
   purchases_flutter: ^8.11.0   # RevenueCat
